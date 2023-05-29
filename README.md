@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me: [@amirjamanmondal](mailto:amirjamanmondal435@gmail.com)
 - 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: I love drawing :heart
+- ⚡ Fun fact: I love drawing ❤️
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
