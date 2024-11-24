@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Web Development.
-- 📫 How to reach me: [@amirjamanmondal](mailto:amirjamanmondal435@gmail.com)
+- 📫 How to reach me: [@amirjamanmondal](mailto:amirjamanmondal@gmail.com)
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: I love drawing ❤️
-
+  
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <a href="https://github.com/amirjamanmondal">
