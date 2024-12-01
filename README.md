@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Mern Stack Development.
 - 📫 How to reach me: [@amirjamanmondal](mailto:amirjamanmondal@gmail.com)
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: I love drawing ❤️
